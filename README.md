@@ -15,8 +15,8 @@ This public repository provides an overview of my graduate coursework in the Mas
 - **DTSA 5002** – Stats Inference for Estimation *(private repo)*
 - **DTSA 5302** – Cybersecurity for Data Science *(private repo)*
 - **DTSA 5504** – Data Mining Pipeline *(private repo)*
-- **DTSA 5510** – Unsupervised Algorithms in ML *(private repo)*
 - **DTSA 5509** – Intro to Supervised ML *(private repo)*
+- **DTSA 5510** – Unsupervised Algorithms in ML *(private repo)*
 
 ---
 
