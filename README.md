@@ -11,7 +11,7 @@ This public repository provides an overview of my graduate coursework in the Mas
 
 ---
 
-## 🗓️ Spring 2025 Courses (In Progress)
+## 🗓️ Spring 2025 Courses
 - **DTSA 5002** – Stats Inference for Estimation *(private repo)*
 - **DTSA 5302** – Cybersecurity for Data Science *(private repo)*
 - **DTSA 5504** – Data Mining Pipeline *(private repo)*
@@ -19,5 +19,11 @@ This public repository provides an overview of my graduate coursework in the Mas
 - **DTSA 5510** – Unsupervised Algorithms in ML *(private repo)*
 
 ---
+
+## 🗓️ Summer 2025 Courses (In Progress)
+- **DTSA 5505** – Data Mining Methods *(private repo)*
+- **DTSA 5511** – Introduction to Deep Learning *(private repo)*
+- **DTSA 5011** – Modern Regression Analysis in R *(private repo)*
+
 
 > Note: Course-specific repositories are private to comply with academic integrity policies.
